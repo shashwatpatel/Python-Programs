@@ -3,4 +3,4 @@
 2) Subtract
 3) Divide
 4) Multiply
-If the choice is any other than the above then the program exits.
+# If the choice is any other than the above then the program exits.
