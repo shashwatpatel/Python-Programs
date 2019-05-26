@@ -1,4 +1,4 @@
-#Simple calculator
+# Simple calculator
 1) Add
 2) Subtract
 3) Divide
