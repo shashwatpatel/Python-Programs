@@ -7,3 +7,4 @@
 6) InnerProduct: NumPy program to compute the inner product of vectors for 1-D arrays (without complex conjugation) and in higher dimension
 7) Eigenvalues: NumPy program to compute the eigenvalues and right eigenvectors of a given square array
 8) Kronecker: NumPy program to compute the Kronecker product of two given mulitdimension arrays
+9) Condition: NumPy program to compute the condition number of a given matrix 
