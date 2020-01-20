@@ -1,1 +1,1 @@
-# Some basic Python programs.
+# This repository contains small algorithms made in python.
